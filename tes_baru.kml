@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Tempat Evakuasi Sementara</name>
+    <Style id="icon-1826-7CB342-nodesc-normal">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1826-7CB342-nodesc-highlight">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1826-7CB342-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1826-7CB342-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1826-7CB342-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Masjid Baiturrahman</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3890085,-8.3517973,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Hidayatul Munawwaroh</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3851354,-8.3350876,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Al-Islah Baitur Rohman</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3797017,-8.3083441,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Masjid Jami' Baiturrohman]]></name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.4133262,-8.3282566,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[SMK MA'ARIF NU GUMUKMAS]]></name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3837198,-8.3392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN Mayangan 03</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3953194,-8.3592159,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Darul Huda Pulorejo</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3989279,-8.3433719,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SMP Negeri 1 Gumukmas</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.4028457,-8.3174883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lapangan Kupujamas Jatiagung</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.394428,-8.3238915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SD Negeri Kraton 03</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3565943,-8.3151522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Baitur Rohim - Kraton</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3680899,-8.3227413,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SDN Kraton 04</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3694,-8.3237764,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Masjid Baithus Sholichin, Muneng Kraton</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3753317,-8.3304382,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lapangan Mayangan</name>
+      <styleUrl>#icon-1826-7CB342-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          113.3865274,-8.3343998,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
